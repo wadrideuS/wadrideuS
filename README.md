@@ -1,4 +1,4 @@
-<img src="./channels4_banner.jpg" alt="WADRID" width="100%" />
+<img src="./banner-wadrid.png" alt="WADRID" width="100%" />
 
 <h1 align="center">is robot bro? 🤖</h1>
 <p align="center"><b>wadrideuS</b> · código en construcción</p>
