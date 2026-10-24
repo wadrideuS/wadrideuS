@@ -1,7 +1,7 @@
 <img src="./channels4_banner.jpg" alt="WADRID" width="100%" />
 
 <h1 align="center">is robot bro? 🤖</h1>
-<p align="center"><img src="https://raw.githubusercontent.com/wadrideuS/wadrideuS/main/profile-text.svg?v=typing3" width="100%" alt="Building web apps, one idea at a time. Exploring code, 3D & interactive experiences. WadrideuS" /></p>
+<p align="center"><img src="./profile-colorful.svg" width="100%" alt="Building web apps, one idea at a time. Exploring code, 3D & interactive experiences. WadrideuS" /></p>
 
 <br />
 
