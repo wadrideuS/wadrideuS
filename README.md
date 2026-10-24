@@ -17,14 +17,6 @@ Por aquí conviven proyectos web, prácticas y experimentos. Interfaces con Java
 </p>
 <p align="center"><sub>JavaScript · React · Vite · HTML · CSS<br />Python · Django · Angular</sub></p>
 
-### / cosas que he subido
-
-| Proyecto | Por dónde empezar |
-| :--- | :--- |
-| 🐍 **[Django CRUD & Auth](https://github.com/wadrideuS/django_crud_auth3)** | Python · Django |
-| 🧩 **[Taller Angular](https://github.com/wadrideuS/Taller_Angular)** | Proyecto con Angular |
-| 🌐 **[Hoja de vida](https://github.com/wadrideuS/hojadevida)** | HTML · presentación personal |
-
 ---
 
 <p align="center"><samp>guardando cambios... ▓▓▓▓▓▓▓░░░</samp><br /><sub>Siempre hay algo más por construir.</sub></p>
