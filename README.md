@@ -1,32 +1,30 @@
-<img src="./channels4_banner.jpg" alt="WADRID — banner" width="100%" />
+<img src="./channels4_banner.jpg" alt="WADRID" width="100%" />
 
-<h2 align="center">Hola, soy wadrideuS 👋</h2>
-<p align="center">Código, creatividad y proyectos que van tomando forma.</p>
-<p align="center"><samp>Desarrollo web · Python · Django · Angular</samp></p>
-<p align="center"><i>is robot bro? 🤖</i></p>
+<h1 align="center">is robot bro? 🤖</h1>
+<p align="center"><b>wadrideuS</b> · código en construcción</p>
+<p align="center"><samp>probar → romper → entender → mejorar</samp></p>
 
-### 👨‍💻 Sobre mí
+<br />
 
-- 🐍 Aquí comparto mis proyectos con Python y Django.
-- 🌐 También encontrarás interfaces con HTML, CSS y Angular.
-- 🛠️ Este perfil reúne prácticas, talleres y proyectos personales.
+### / mi rincón de código
 
-## 🛠️ Stack
+Por aquí conviven proyectos web, prácticas y experimentos. Interfaces con JavaScript, React, Vite, HTML y CSS; también proyectos con Python, Django y Angular.
 
-#### 💻 Lenguajes
+### / en la caja de herramientas
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" alt="Python, HTML y CSS" />
+<img src="https://skillicons.dev/icons?i=js,react,vite,html,css,python,django,angular&theme=dark" alt="JavaScript, React, Vite, HTML, CSS, Python, Django y Angular" />
 </p>
+<p align="center"><sub>JavaScript · React · Vite · HTML · CSS<br />Python · Django · Angular</sub></p>
 
-#### 🧩 Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,angular&theme=dark" alt="Django y Angular" />
-</p>
+### / cosas que he subido
 
-## 🚀 Explora mis proyectos
+| Proyecto | Por dónde empezar |
+| :--- | :--- |
+| 🐍 **[Django CRUD & Auth](https://github.com/wadrideuS/django_crud_auth3)** | Python · Django |
+| 🧩 **[Taller Angular](https://github.com/wadrideuS/Taller_Angular)** | Proyecto con Angular |
+| 🌐 **[Hoja de vida](https://github.com/wadrideuS/hojadevida)** | HTML · presentación personal |
 
-- 🐍 [Django CRUD & Auth](https://github.com/wadrideuS/django_crud_auth3)
-- 🅰️ [Taller Angular](https://github.com/wadrideuS/Taller_Angular)
-- 🌐 [Hoja de vida](https://github.com/wadrideuS/hojadevida)
+---
 
-<p align="center"><samp>↓ Más código y proyectos por aquí ↓</samp></p>
+<p align="center"><samp>guardando cambios... ▓▓▓▓▓▓▓░░░</samp><br /><sub>Siempre hay algo más por construir.</sub></p>
