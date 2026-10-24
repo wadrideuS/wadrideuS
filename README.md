@@ -1,4 +1,4 @@
-<img src="./banner-wadrid.png" alt="WADRID" width="100%" />
+<img src="./channels4_banner.jpg" alt="WADRID" width="100%" />
 
 <h1 align="center">is robot bro? 🤖</h1>
 <p align="center"><b>wadrideuS</b> · código en construcción</p>
@@ -16,6 +16,14 @@ Por aquí conviven proyectos web, prácticas y experimentos. Interfaces con Java
 <img src="https://skillicons.dev/icons?i=js,react,vite,html,css,python,django,angular&theme=dark" alt="JavaScript, React, Vite, HTML, CSS, Python, Django y Angular" />
 </p>
 <p align="center"><sub>JavaScript · React · Vite · HTML · CSS<br />Python · Django · Angular</sub></p>
+
+### / proyecto en el que trabajo actualmente
+
+#### 🎯 [WadriAim](https://github.com/wadrideuS/WadriAim)
+
+Mi proyecto más ambicioso hasta ahora: un entrenador de puntería y movimiento para FPS que funciona en el navegador, con minijuegos 3D para practicar precisión, reflejos y seguimiento de objetivos. Construido con JavaScript, Vite y Three.js.
+
+[Probar WadriAim ↗](https://wadriaim.vercel.app/) · [Ver código](https://github.com/wadrideuS/WadriAim)
 
 ---
 
