@@ -6,18 +6,18 @@
 
 <br />
 
-### mi rincón de código
+### Mi rincón de código
 
 Por aquí conviven proyectos web, prácticas y experimentos. Interfaces con JavaScript, React, Vite, HTML y CSS; también proyectos con Python y Django.
 
-### en la caja de herramientas
+### En la caja de herramientas
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,react,vite,html,css,python,django&theme=dark" alt="JavaScript, React, Vite, HTML, CSS, Python y Django" />
 </p>
 <p align="center"><sub>JavaScript · React · Vite · HTML · CSS<br />Python · Django</sub></p>
 
-### proyecto en el que trabajo actualmente
+### Proyecto en el que trabajo actualmente
 
 #### 🎯 [WadriAim](https://github.com/wadrideuS/WadriAim)
 
